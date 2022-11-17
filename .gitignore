@@ -279,7 +279,6 @@ __pycache__/
 # vcpkg - Start
 ############################################################
 
-.vscode/
 *.code-workspace
 /buildtrees/
 /build*/
@@ -320,3 +319,6 @@ prefab/
 pythonenv3.8/
 .venv/
 
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
